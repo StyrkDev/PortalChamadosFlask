@@ -1,3 +1,10 @@
-
 .env
-node_modules
+node_modules/
+venv/
+__pycache__/
+*.pyc
+*.log
+output_log.txt
+bkp/
+.vscode/
+*.msi
